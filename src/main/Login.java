@@ -387,7 +387,7 @@ if(id.getForeground().equals(Color.GRAY)){
     private javax.swing.JPanel jPanel4;
     private javax.swing.JPanel jPanel5;
     private javax.swing.JSeparator jSeparator1;
-    private javax.swing.JPasswordField pass;
+    public static javax.swing.JPasswordField pass;
     // End of variables declaration//GEN-END:variables
 private void login_Hold(){
      pass.setEchoChar((char)0);
